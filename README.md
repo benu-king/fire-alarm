@@ -85,15 +85,6 @@ When fire is detected, the system automatically calls your phone and activates a
 
 ---
 
-## ⭐ Future Improvements
-
-* SMS alert system
-* Mobile app integration
-* WiFi connectivity
-* Temperature sensor upgrade
-
----
-
 ## 👨‍💻 Author
 
 **Benayas Wondwosen (Benu Tech)**
